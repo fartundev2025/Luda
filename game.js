@@ -6,7 +6,7 @@ $(document).ready(() => {
         
         let message = '';
         if (number === 6) {
-            message = "hamplyo Waad baastey!🎉";
+            message = "hamplyo Waad baastey!🔥🎉";
         } else if (number === 1) {
             message = "sorry Waad dhacdey!😢";
         }
